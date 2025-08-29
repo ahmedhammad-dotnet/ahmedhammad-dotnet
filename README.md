@@ -7,7 +7,7 @@ I’m currently learning more about database design, backend architecture, and A
 
 I’m looking to collaborate on backend systems using ASP.NET Core, and I’m open to freelance opportunities or junior backend roles.
 
-All of my projects are available at: https://github.com/ahmedhammed600
+All of my projects are available at: [https://github.com/ahmedhammad-dotnet]
 
 Ask me about anything related to .NET backend development, C#, OOP, SQL Server, or getting started with backend development.
 
